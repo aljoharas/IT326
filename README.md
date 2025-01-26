@@ -1,4 +1,4 @@
-# IT326 (Air Quality) 
+# IT326 (Air Quality and Pollution Assessment) 
 
 ### Group #1
 - **Aljohara Alsultan 444203635**
